@@ -83,7 +83,7 @@ public class Quiz2 {
 					
 					water= weight * 0.033;
 					
-					JOptionPane.showMessageDialog(null, "Buddy, you should drink " + water + " l of water a day!");
+					JOptionPane.showMessageDialog(null, "Buddy, you should drink " + water + " L of water a day!");
 				}catch (Exception e) {
 					JOptionPane.showMessageDialog(null, "Please Enter Valid Number");
 				}
